@@ -1,0 +1,5 @@
+CREATE TABLE IF NOT EXISTS mydata (
+    id SERIAL PRIMARY KEY,
+    key TEXT UNIQUE NOT NULL,
+    value TEXT NOT NULL
+);

@@ -17,10 +17,12 @@
     "url": "https://github.com/RoyaleYourDad/my-json-api/issues"
   },
   "homepage": "https://github.com/RoyaleYourDad/my-json-api#readme",
-  "description": "",
   "dependencies": {
     "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
     "express": "^5.1.0",
-    "fs": "^0.0.1-security"
-  }
+    "fs": "^0.0.1-security",
+    "pg": "^8.14.1"
+  },
+  "description": ""
 }
